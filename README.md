@@ -1,4 +1,4 @@
-# `My Custom React Typescirpt`
+# `My Custom React Javascript`
 
 <br>
 
