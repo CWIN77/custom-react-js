@@ -1,4 +1,4 @@
-## `My Custom React Javascript`
+## My Custom React Javascript
 
 <br>
 
