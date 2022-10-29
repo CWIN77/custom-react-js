@@ -22,8 +22,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.env
+# yarn
 .yarn
+.yarn.lock
+/.yarn/
+.yarnrc.yml
+
+.env
 /.firebase
 .firebasesrc
 firebase.json
